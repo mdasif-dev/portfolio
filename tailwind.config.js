@@ -6,8 +6,8 @@ module.exports = {
       fontFamily: {
         dosis: ["dosis", "sans-serif"],
       },
-      colors: {
-      'secondary':'#34353A',
+      colors:{
+      'secondary':'#3D3E42',
       'secondary-dark':'#262830',
       'yellow-light':'#FFC86B',
       'dark-mate':'#31333B',
@@ -17,4 +17,3 @@ module.exports = {
   },
   plugins: [],
 }
-
